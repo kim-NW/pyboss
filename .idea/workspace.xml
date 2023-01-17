@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f5a0c90-f307-43a6-9c80-d9262e15e05a" name="Changes" comment="" />
+    <list default="true" id="3f5a0c90-f307-43a6-9c80-d9262e15e05a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/config/settings/prod.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings/prod.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
